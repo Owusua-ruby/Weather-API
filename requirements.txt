@@ -1,0 +1,7 @@
+apscheduler
+environs
+fastapi[standard]
+icecream
+pandas
+requests
+pytz
