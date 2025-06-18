@@ -2,6 +2,7 @@ from os import getcwd, path
 
 import pandas as pd
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from icecream import ic
 
@@ -9,6 +10,15 @@ from Configurations.config import DEBUG
 from utils.helpers import prepare_data
 
 app = FastAPI(title="TAHMO Weather App API", debug=DEBUG)
+
+# Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods
+    allow_headers=["*"],  # Allows all headers
+)
 
 
 @app.get("/api/data", description="Get the last 24hours data recorded")
