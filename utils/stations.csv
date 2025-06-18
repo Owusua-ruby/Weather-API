@@ -1,0 +1,715 @@
+code,status,name,latitude,longitude,altitude,installation_height,timezone
+TA00001,1,Lela Primary School,-1.1232833,34.3979917,1393.0,5.0,Africa/Nairobi
+TA00002,1,Benso SHS,5.152566725,-1.881544448,86.1,2.0,Africa/Accra
+TA00003,1,Prestea SHTS,5.4468564,-2.1339285,63.0,2.0,Africa/Accra
+TA00004,1,Manso Amenfi NVTI,5.6432258,-2.2667477,104.0,2.0,Africa/Accra
+TA00005,1,Asankragwa SHS,5.807730755,-2.426394513,125.1,2.0,Africa/Accra
+TA00006,1,Nana Brentu SHTS Enchi,5.81130767,-2.825592113,117.7,2.0,Africa/Accra
+TA00007,1,Nana Yaa Kesse SHS Duayaw Nkwanta,7.188272845,-2.097477035,341.1,2.0,Africa/Accra
+TA00008,1,Sacred Heart SHS Nsoatre,7.412980163,-2.47606256,332.0,2.0,Africa/Accra
+TA00009,1,Adehyeman SHS Amasu,7.22490549,-2.782208618,290.5,2.0,Africa/Accra
+TA00010,1,Chiraa SHS,7.389594725,-2.185990558,337.1,2.0,Africa/Accra
+TA00011,1,OLA Girls SS Kenyasi,6.98570472,-2.396092478,247.0,2.0,Africa/Accra
+TA00012,1,Hwidiem SHS,6.936724763,-2.353980785,200.0,2.0,Africa/Accra
+TA00013,1,Huni Valley SHS,5.469601043,-1.908533785,106.3,2.0,Africa/Accra
+TA00014,1,Juaboso SHS,6.345286778,-2.826350268,198.7,2.0,Africa/Accra
+TA00015,1,Bia SHTS Debiso,6.665102573,-3.097144795,200.4,2.0,Africa/Accra
+TA00016,1,"Accra Academy School, Accra",5.573103555,-0.244500082,32.4,2.0,Africa/Accra
+TA00018,1,Koyoo Secondary School,-0.5820111,34.6072611,1411.9,2.0,Africa/Nairobi
+TA00019,1,Osodo Secondary School,-0.5241139,34.2556472,1281.0,2.0,Africa/Nairobi
+TA00020,1,Woodlands 2000 Trust,-1.6533556,36.8623972,1643.0,2.0,Africa/Nairobi
+TA00021,1,Kipsombe Secondary School,0.7579861,35.1737111,1948.4,2.0,Africa/Nairobi
+TA00023,1,Dwa Estate,-2.38855,38.0407667,791.0,2.0,Africa/Nairobi
+TA00024,1,Mang'u High School,-1.0717306,37.0455778,1524.7,2.0,Africa/Nairobi
+TA00025,1,Kenya Meteorological Department,-1.3018389,36.7602,1801.8,2.0,Africa/Nairobi
+TA00026,1,Moi Forces Academy,-0.2871222,36.1699806,1939.9,3.0,Africa/Nairobi
+TA00028,1,Three Rivers Academy,0.0552193,37.13674669,2003.6,9.0,Africa/Nairobi
+TA00029,1,Karima Girls High School,-0.500775513,36.58751105,2545.8,2.0,Africa/Nairobi
+TA00030,1,Ole Tipis Girls Secondary School,-1.0946806,35.8923361,1925.7,2.0,Africa/Nairobi
+TA00032,1,Ndejje Senior Secondary School,0.6106,32.4752694,1224.6,2.0,Africa/Nairobi
+TA00033,1,Entebbe WME,0.0486111,32.4725,1149.0,2.0,Africa/Nairobi
+TA00034,1,Wanyange Girls School,0.4834972,33.2437194,1341.3,2.0,Africa/Nairobi
+TA00035,1,Busitema University,0.7569194,34.0461694,1121.0,2.0,Africa/Nairobi
+TA00036,1,Kazwama Health Center,1.33223283,32.64999078,1055.4,2.0,Africa/Nairobi
+TA00037,1,Mityana Secondary School,0.377506,32.0390447,1249.2,2.0,Africa/Nairobi
+TA00039,1,KNUST JHS Kumasi,6.684325605,-1.568850775,269.1,2.0,Africa/Accra
+TA00041,1,"Obuasi TSHS, Obuasi",6.1968938,-1.6826491,221.0,2.0,Africa/Accra
+TA00042,1,"CRIG, Tafo",6.226061717,-0.362835065,212.5,2.0,Africa/Accra
+TA00043,1,"St. Joseph Technical School, Kwahu Tafo",6.654151645,-0.669173368,481.4,2.0,Africa/Accra
+TA00044,1,"Mountain High School, Kona, Ashanti Region",6.850902458,-1.515176032,335.6,2.0,Africa/Accra
+TA00045,1,"Asesewaa Senior High School, Asesewaa",6.4006263,-0.1465771,372.3,2.0,Africa/Accra
+TA00046,1,"Dompoase Senior High School, Dompoase",6.3088422,-1.5297927,255.8,2.0,Africa/Accra
+TA00047,1,"Bodwesango Senior High School, Bodwesango",6.283841667,-1.417355556,223.2,2.0,Africa/Accra
+TA00049,1,Ofoase Senior HTS,6.396728868,-1.282829655,195.8,2.0,Africa/Accra
+TA00050,1,"Bompata Presby SHS, Bompata",6.6256382,-1.059504,231.3,2.0,Africa/Accra
+TA00051,1,N'Djamena Airport,12.1385,15.0455833,290.2,2.0,Africa/Ndjamena
+TA00052,1,Kin Kin Village,11.568833,15.209333,314.2,2.0,Africa/Ndjamena
+TA00054,1,Molo Academy,-0.2393417,35.728897,2514.1,2.0,Africa/Nairobi
+TA00055,1,Adams Elementary School,44.550053,-123.289175,71.0,2.0,America/New_York
+TA00056,1,Murang'a High School,-0.7216559,37.1455851,1376.0,2.0,Africa/Nairobi
+TA00057,1,St. Scholastica Catholic School,-1.253029763,36.85648709,1645.3,2.0,Africa/Nairobi
+TA00061,1,Kipsigis Girls High School,-0.3793746,35.2507188,1959.3,2.0,Africa/Nairobi
+TA00062,1,Nasokol Girls High School,1.2734194,35.0853626,2071.0,2.0,Africa/Nairobi
+TA00063,1,Kapsabet Boys High School,0.2030556,35.1166889,2015.0,2.0,Africa/Nairobi
+TA00064,1,Kamusinga Friends Boys Secondary School,0.7939077,34.7053857,1721.0,2.0,Africa/Nairobi
+TA00065,1,Mukumu Girls High School,0.2180637,34.7684636,1566.0,2.0,Africa/Nairobi
+TA00066,1,Alliance Girls High School,-1.2654376,36.6623375,1996.0,2.0,Africa/Nairobi
+TA00067,1,Makueni Boys School,-1.794284998,37.62121131,1202.1,2.0,Africa/Nairobi
+TA00068,1,Base Titanium Mine,-4.373456,39.4409797,128.2,2.0,Africa/Nairobi
+TA00069,1,Base Titanium Dam,-4.4062421,39.4305637,51.2,2.5,Africa/Nairobi
+TA00070,1,Shimba Hills Kidongo Gate,-4.3117683,39.3718988,236.9,2.0,Africa/Nairobi
+TA00071,1,Msambweni SCAO,-4.4607798,39.4828099,20.2,2.0,Africa/Nairobi
+TA00072,1,Likoni School for the Blind,-4.0789825,39.6568773,14.0,3.0,Africa/Nairobi
+TA00073,1,Thome Boys Secondary School,-0.071723067,36.93383474,1853.5,2.0,Africa/Nairobi
+TA00074,1,South Tetu Girls High School,-0.5660801,37.0744122,1726.8,2.0,Africa/Nairobi
+TA00075,1,Gashora Girls Academy,-2.2230288,30.2378422,1354.1,3.5,Africa/Maputo
+TA00076,1,Urudi Mixed Secondary School,-0.2843613,34.9546417,1170.0,2.0,Africa/Nairobi
+TA00077,1,Musaria Secondary School,-0.3830663,35.0684057,1765.0,2.0,Africa/Nairobi
+TA00078,1,Nyandarua High School,-0.2001778,36.3769356,2427.2,2.5,Africa/Nairobi
+TA00079,1,Amadou Tangara,12.592952,-7.969808,325.6,12.0,Africa/Abidjan
+TA00080,1,Waruhiu ATC(Agriculture Training Centre),-1.087589498,36.81840152,1777.3,2.0,Africa/Nairobi
+TA00083,1,Bol Matafo,13.5028611,14.6928056,285.0,2.0,Africa/Ndjamena
+TA00084,1,Bol Matafo,13.5028611,14.6928056,285.0,2.0,Africa/Ndjamena
+TA00085,1,N'Djamena Airport,12.1385,15.0455833,290.2,2.0,Africa/Ndjamena
+TA00088,1,Kin Kin Village,11.568833,15.209333,314.2,2.0,Africa/Ndjamena
+TA00089,1,Somo,13.2418111,-4.7839194,282.0,2.0,Africa/Abidjan
+TA00090,1,Boutenisso,13.3297778,-4.7338333,287.0,2.0,Africa/Abidjan
+TA00092,1,Bolimasso,13.2869469,-4.6221486,297.0,2.0,Africa/Abidjan
+TA00093,1,N'goutjina,12.2975389,-5.4766694,409.0,2.0,Africa/Abidjan
+TA00094,1,Finkoloni,12.2622194,-5.4927806,404.0,2.0,Africa/Abidjan
+TA00096,1,Siramana,11.5930132,-5.7144108,350.2,2.0,Africa/Abidjan
+TA00098,1,GMet HQ,5.652019933,-0.16446233,71.6,2.0,Africa/Accra
+TA00101,1,Unimaid WS2,11.81004,13.20978,324.1,2.0,Africa/Lagos
+TA00102,1,Unimaid WS2,11.81004,13.20978,324.1,2.0,Africa/Lagos
+TA00103,1,AIM UKZN,-29.6277778,30.402861,673.0,2.0,Africa/Johannesburg
+TA00107,1,Marsing School Idaho,43.543203,-116.814314,701.0,2.0,America/New_York
+TA00108,1,Nzukini Secondary School,-0.991916183,37.50728828,1141.1,2.0,Africa/Nairobi
+TA00109,1,Breman Asikuma SHS,5.592651,-0.996417,90.0,2.0,Africa/Accra
+TA00110,1,Foso College of Education,5.682642,-1.265018,154.2,2.0,Africa/Accra
+TA00111,1,HOHOE E.P. SHS,7.170037,0.468797,180.3,2.0,Africa/Accra
+TA00112,1,Oti Senior High Tech.,8.049376,0.191168,136.0,2.0,Africa/Accra
+TA00113,1,Nkwanta SHS,8.271124,0.515265,213.7,2.0,Africa/Accra
+TA00114,1,Bueman SHS,7.4220304,0.46262329,216.0,2.0,Africa/Accra
+TA00115,1,Kpeve Senior High Tech.,6.676471,0.327794,156.4,2.0,Africa/Accra
+TA00116,1,Amedzofe Technical Institute,6.845815,0.440698,731.8,2.0,Africa/Accra
+TA00117,1,Keta SHS,5.895083,0.989567,10.0,2.0,Africa/Accra
+TA00118,1,Tema Secondary School,5.641413,-0.01187,18.4,2.0,Africa/Accra
+TA00119,1,Elubo,5.16120947,-2.641400593,43.9,2.0,Africa/Accra
+TA00120,1,Nkroful Agric SHS,4.971861,-2.322676,28.0,2.0,Africa/Accra
+TA00121,1,Half Assini SHS,5.053207,-2.877294,14.0,2.0,Africa/Accra
+TA00122,1,Amenfiman SHS,5.778639,-2.090195,71.1,2.0,Africa/Accra
+TA00123,1,Boa Amponsem SHS,5.963177,-1.792334,144.0,2.0,Africa/Accra
+TA00124,1,Church of Christ SHS,5.5675292,-1.694181,113.0,2.0,Africa/Accra
+TA00125,1,Twifo Praso SHS,5.615883,-1.579706,107.0,2.0,Africa/Accra
+TA00126,1,Berekuso - Ashesi Unversity,5.758029,-0.221716,330.0,2.6,Africa/Accra
+TA00127,1,St. John's Grammar,5.6383744,-0.2447151,46.0,2.6,Africa/Accra
+TA00129,1,Timbila High School,-3.390926173,37.71765619,755.3,2.0,Africa/Nairobi
+TA00130,1,Our Lady of Perpetuah Girls Secondary school,-3.4976,38.585934,1153.9,2.0,Africa/Nairobi
+TA00131,1,Shimo la Tewa School,-3.960327,39.744076,7.8,2.0,Africa/Nairobi
+TA00132,1,Ganze Boys Secondary,-3.551352,39.695029,165.0,2.0,Africa/Nairobi
+TA00133,1,Mkunumbi Secondary School,-2.29839,40.694046,5.0,2.0,Africa/Nairobi
+TA00135,1,CEG Davie (Porto Novo),6.481662,2.635929,24.0,2.0,Africa/Lagos
+TA00136,1,"Notre Dame Seminary/SHS, Navrongo",10.883374,-1.071105,187.0,2.0,Africa/Accra
+TA00137,1,Anum Presby SHS,6.499433,0.148033,334.3,2.0,Africa/Accra
+TA00138,1,Lycee Pole Fort Dauphin,-25.028733,46.976335,24.0,2.0,Africa/Nairobi
+TA00140,1,Torongo Girls High School,0.1254519,35.6042823,2557.6,2.0,Africa/Nairobi
+TA00141,1,Sacho High School,0.388119,35.786769,2102.8,2.3,Africa/Nairobi
+TA00144,1,Université d' Abomey-Calavi,6.41705,2.339947,17.0,2.0,Africa/Lagos
+TA00147,1,Kisoko Girls Secondary School,0.449274,34.282303,1226.7,2.0,Africa/Nairobi
+TA00148,1,CEG 1 Tanguieta,10.627189,1.270305,238.0,2.0,Africa/Lagos
+TA00149,1,SOS Village Natitingou,10.258933,1.379808,387.0,2.0,Africa/Lagos
+TA00150,1,CEG 1 Glazoue,7.97439259,2.235347415,197.4,2.0,Africa/Lagos
+TA00151,1,CEG1 Tchatchau,9.127735,2.557755,182.1,2.0,Africa/Lagos
+TA00153,1,CEG 1 Allada,6.668836,2.142742,103.0,2.0,Africa/Lagos
+TA00154,1,Bangalala,-4.231107195,37.84780387,881.8,2.0,Africa/Nairobi
+TA00155,1,Namanga Mixed Secondary School,-2.523037,36.829437,1311.7,2.0,Africa/Nairobi
+TA00156,1,Ikanga Boys High School,-1.701123,38.068339,871.6,2.0,Africa/Nairobi
+TA00157,1,South Eastern Kenya University - Mtitu Adei Campus,-2.656672,38.107237,854.0,2.0,Africa/Nairobi
+TA00158,1,Muthale Girls Secondary School,-1.184988,38.001424,1369.0,2.0,Africa/Nairobi
+TA00159,1,Dabane,-21.350205,28.485967,862.4,2.0,Africa/Maputo
+TA00160,1,Station Somgande Meteo,12.39937858,-1.501783025,291.1,2.0,Africa/Abidjan
+TA00161,1,Boromo,11.74447183,-2.929343615,271.7,2.0,Africa/Abidjan
+TA00162,1,Farakobo,11.094267,-4.332041,419.0,2.0,Africa/Abidjan
+TA00163,1,Dedougou,12.463832,-3.481315,300.0,2.0,Africa/Abidjan
+TA00164,1,Ouahigouya,13.565589,-2.41653,343.0,2.0,Africa/Abidjan
+TA00166,1,Chuka University,-0.319508,37.659139,1404.0,2.0,Africa/Nairobi
+TA00168,1,Fada,12.045334,0.36455,314.9,2.0,Africa/Abidjan
+TA00169,1,Bogande,12.97898766,-0.16066585,299.3,2.0,Africa/Abidjan
+TA00170,1,Gaoua,10.38555,-3.166258,289.0,2.0,Africa/Abidjan
+TA00171,1,Maseno University,-0.00271,34.596908,1532.0,2.0,Africa/Nairobi
+TA00172,1,Isiolo Meteorological Service,0.353931,37.58774,1110.0,2.0,Africa/Nairobi
+TA00173,1,Longisa High School,-0.854722,35.39565,2020.0,2.0,Africa/Nairobi
+TA00174,1,Oldonyiru Secondary School,0.629807395,36.98800639,1535.7,2.0,Africa/Nairobi
+TA00176,1,Antsiradava,-17.51506,48.60748,878.0,2.0,Africa/Nairobi
+TA00178,1,Hilario Secondary School,0.913966,34.953711,1795.3,2.0,Africa/Nairobi
+TA00179,1,Braamfontein,-26.19511,28.03133,1743.0,2.0,Africa/Johannesburg
+TA00180,1,Shasha,-1.614722,29.006389,1559.0,1.0,Africa/Maputo
+TA00181,1,Konongo Odumasi SHS,6.614708,-1.227244,248.8,2.0,Africa/Accra
+TA00182,1,RCMRD,-1.22151,36.89292,1616.0,2.4,Africa/Nairobi
+TA00183,1,Olderkesi Secondary School,-1.71137,35.56528,1952.0,2.0,Africa/Nairobi
+TA00184,1,Irbaan Primary,-1.46418,35.28793,1605.0,2.0,Africa/Nairobi
+TA00185,1,Mararianda Primary,-1.20328,35.06718,1660.0,2.0,Africa/Nairobi
+TA00186,1,Kyuso DC Office,-0.54978,38.2128,877.2,2.0,Africa/Nairobi
+TA00187,1,Tseikuru Agricultural offices,-0.313821068,38.21996012,607.5,2.0,Africa/Nairobi
+TA00189,1,Machaga,-0.79526,37.66593,1084.8,2.0,Africa/Nairobi
+TA00190,1,University of Embu,-0.516626848,37.45622204,1473.6,2.0,Africa/Nairobi
+TA00192,1,Hunters Hill Firestation,-26.064506,27.953292,1545.6,2.0,Africa/Johannesburg
+TA00194,1,ChefeDonsa,8.954820045,39.1011329,2443.7,2.0,Africa/Nairobi
+TA00195,1,Mekelle University (MU),13.4818658,39.4891605,2217.0,2.0,Africa/Nairobi
+TA00196,1,Baricho High school,-0.551327005,37.22790692,1432.7,2.0,Africa/Nairobi
+TA00197,1,"Lycee Assahoun, Assahoun",6.4610207,0.9070906,123.1,2.0,Africa/Abidjan
+TA00198,1,"CEG Aflao Sagbado, Lome",6.196705,1.132874,40.0,2.0,Africa/Abidjan
+TA00199,1,"Lycée Adétikopé, Lomé",6.3259342,1.2349444,56.7,2.0,Africa/Abidjan
+TA00201,1,"Lycéé de Zébévi, Aneho",6.25842585,1.609626518,18.5,2.0,Africa/Abidjan
+TA00203,1,EPP Igboloudja,8.055463,1.564147,268.0,2.0,Africa/Abidjan
+TA00205,1,Bukalasa Agric College,0.7125264,32.5124314,1172.4,2.0,Africa/Nairobi
+TA00206,1,Ntusi Hydromet,0.0481512,31.2159369,1306.0,2.0,Africa/Nairobi
+TA00207,1,Mubende Hydromet,0.56302,31.39055,1319.0,2.0,Africa/Nairobi
+TA00208,1,Kyenjojo Hydromet,0.61717,30.63842,1375.0,2.0,Africa/Nairobi
+TA00209,1,Kyembogo Agromet,0.69355,30.33222,1528.0,2.0,Africa/Nairobi
+TA00210,1,Kasese Synoptic,0.18919,30.10059,969.1,2.0,Africa/Nairobi
+TA00211,1,Kabale Synoptic,-1.25418303,29.99194983,1870.3,2.0,Africa/Nairobi
+TA00212,1,Mbarara Synoptic,-0.60528,30.67316,1425.0,2.0,Africa/Nairobi
+TA00213,1,Kalangala HQ,-0.322027868,32.29133242,1259.9,2.0,Africa/Nairobi
+TA00214,1,Bukasa Secondary School,-0.45427,32.49455,1197.0,2.0,Africa/Nairobi
+TA00215,1,Entebbe Airport Met,0.052465,32.44069,1158.8,2.0,Africa/Nairobi
+TA00216,1,Makerere Synoptic,0.333542,32.56863,1238.9,2.0,Africa/Nairobi
+TA00217,1,Buvuma Island HQ,0.19692,33.27136,1187.0,2.0,Africa/Nairobi
+TA00218,1,Kabulasoke Core PTC,0.15583,31.81268,1211.3,2.0,Africa/Nairobi
+TA00219,1,Butambala HQ,0.18395,32.13239,1223.0,2.0,Africa/Nairobi
+TA00220,1,Kalongo Seed School,1.20684,32.73557,1047.0,2.0,Africa/Nairobi
+TA00221,1,Nakaseke District HQ,0.82875,32.24802,1090.0,2.0,Africa/Nairobi
+TA00222,1,Ngoma Secondary School,1.18624,32.02033,1069.0,2.0,Africa/Nairobi
+TA00223,1,Arua Airfield,3.04679,30.9135,1202.0,2.0,Africa/Nairobi
+TA00224,1,Bugema University,0.5715,32.64165,1167.94,2.0,Africa/Nairobi
+TA00225,1,Busoga College Mwiri,0.499446,33.2634,1354.624,2.0,Africa/Nairobi
+TA00226,1,Iganga Girls Secondary School,0.58487,33.4567,1148.0,2.0,Africa/Nairobi
+TA00227,1,Jinja Airfield,0.45047,33.19557,1183.6,2.0,Africa/Nairobi
+TA00228,1,Koboko HQ,3.40472,30.9596,1248.8,2.0,Africa/Nairobi
+TA00229,1,Nakabale High School,0.751695885,33.26808214,1128.7,2.0,Africa/Nairobi
+TA00230,1,Soroti Met,1.72469,33.622,1123.0,2.0,Africa/Nairobi
+TA00231,1,Tororo UNMA HQ,0.6978,34.17151,1177.0,2.0,Africa/Nairobi
+TA00232,1,Wadelai Met,2.72595,31.39115,647.5,2.0,Africa/Nairobi
+TA00233,1,Yumbe HQ,3.4535,31.25125,970.0,2.0,Africa/Nairobi
+TA00234,1,Lira Met,2.29519,32.92137,1096.0,2.0,Africa/Nairobi
+TA00236,1,EPC Ountivou,7.355621,1.562378,178.0,2.0,Africa/Abidjan
+TA00237,1,Lycée de Kougnohou,7.64895,0.793964,627.6,2.0,Africa/Abidjan
+TA00239,1,EPP Amou-Oblo Groupe D,7.381808,0.863968,329.0,2.0,Africa/Abidjan
+TA00240,1,Geregera,11.740102,38.757016,2870.2,2.0,Africa/Nairobi
+TA00241,1,"Okuapeman SHS, Akropong Akuapem",5.959454,-0.094528,467.1,2.0,Africa/Accra
+TA00242,1,Jabulani,-26.248042,27.854528,1656.7,2.0,Africa/Johannesburg
+TA00243,1,Alexandra-London Road park,-26.108517,28.112614,1524.0,2.0,Africa/Johannesburg
+TA00244,1,Midrand Fire Station,-25.990019,28.121211,1554.8,2.0,Africa/Johannesburg
+TA00245,1,EPP Katchaladè,9.300681,1.234773,731.0,2.0,Africa/Abidjan
+TA00246,1,CEG Bafilo-Ville,9.356642,1.24059,515.0,2.0,Africa/Abidjan
+TA00247,1,Maralal Samburu Met Offices,1.098354053,36.71402261,1954.3,2.0,Africa/Nairobi
+TA00248,1,"Osudoku SHTS, Asutsuare",6.075671,0.196261,33.6,2.0,Africa/Accra
+TA00249,1,"St. Peter's R/C JHS/ St. John's R/C JHS, Tuna",9.49417378,-2.424785828,304.4,2.0,Africa/Accra
+TA00250,1,Kangi,-0.77894,37.676738,1068.0,2.0,Africa/Nairobi
+TA00251,1,"Daffiama SHS, Daffiama",10.424955,-2.55448,322.8,2.0,Africa/Accra
+TA00252,1,"Boise Schools, Idaho",43.6005912,-116.1971996,857.373,2.0,America/New_York
+TA00253,1,"Han SHS, Han",10.67039163,-2.46478432,308.4,2.0,Africa/Accra
+TA00254,1,"Bongo SHS, Bongo",10.91321139,-0.810161018,212.8,2.0,Africa/Accra
+TA00255,1,EPP Kpassoua,9.058659,1.294557,439.0,2.0,Africa/Abidjan
+TA00256,1,EPP Sotouboua Marché,8.565622,0.98269,381.0,2.0,Africa/Abidjan
+TA00257,1,GEG Blitta-Gare,8.326503,0.986902,316.0,2.0,Africa/Abidjan
+TA00259,1,"Kpandai SHS, Kpandai",8.476085137,-0.028542388,196.3,2.0,Africa/Accra
+TA00260,1,"Bimbilla SHS, Bimbilla",8.862776543,0.052038648,224.6,2.0,Africa/Accra
+TA00261,1,Marafa Boys High School,-3.032143,39.958802,93.0,2.0,Africa/Nairobi
+TA00262,1,"Atebubu SHS, Atebubu",7.740292,-0.971681,147.0,2.0,Africa/Accra
+TA00264,1,"Gbewaa College of Education, Pusiga",11.06886,-0.11478,251.7,2.0,Africa/Accra
+TA00265,1,"Prang SHS, Prang",7.996203,-0.882102,115.0,2.0,Africa/Accra
+TA00266,1,"Kajaji SHS, Kajaji",7.781986,-0.212638,130.0,2.0,Africa/Accra
+TA00267,1,"St. Monica's SHS, Mampong",7.044865,-1.404366,448.0,2.0,Africa/Accra
+TA00268,1,"Nafana Presby SHS, Sampa",7.945427,-2.692886,345.0,2.0,Africa/Accra
+TA00269,1,Ardhi university,-6.765744,39.207904,92.0,2.0,Africa/Nairobi
+TA00270,1,Kinyereri primary school,-6.84239,39.15676,96.0,2.0,Africa/Nairobi
+TA00271,1,Visegese,-6.87985,39.02493,174.0,2.0,Africa/Nairobi
+TA00272,1,Pugu station secondary school,-6.890039,39.117927,134.3,2.0,Africa/Nairobi
+TA00274,1,Moi University,0.289569,35.294804,2220.0,2.0,Africa/Nairobi
+TA00275,1,"Goka SHTS, Goka",7.757960715,-2.649063813,311.8,2.0,Africa/Accra
+TA00276,1,"Bibiani SHTS, Bibiani",6.463162,-2.304236,212.0,2.0,Africa/Accra
+TA00277,1,Mankranso SHS,6.824615,-1.868251,240.9,2.0,Africa/Accra
+TA00278,1,Sunyani Airport,7.359125,-2.32987,314.0,2.0,Africa/Accra
+TA00279,1,Kumasi Airport,6.716982,-1.591686,301.0,2.0,Africa/Accra
+TA00280,1,"Nkawkaw SHS, Nkawkaw",6.537919,-0.759105,255.5,2.0,Africa/Accra
+TA00281,1,Marich Education Center,1.537231013,35.45692138,933.3,2.7,Africa/Nairobi
+TA00282,1,"Awudome SHS, Tsito",6.529189,0.280451,152.6,2.0,Africa/Accra
+TA00283,1,Dedan Kimathi University of Technology,-0.403891,36.965727,1747.6,2.0,Africa/Nairobi
+TA00284,1,CEG1 Tangbo-Djevie,6.595477,2.266808,79.0,2.0,Africa/Lagos
+TA00285,1,CEG1 Houeyogbe,6.565694,1.85964,74.0,2.0,Africa/Lagos
+TA00286,1,CEG1 Lalo,6.93764,1.889723,132.0,2.0,Africa/Lagos
+TA00288,1,Kibisi Secondary School,0.697736385,34.86513736,1672.4,2.0,Africa/Nairobi
+TA00292,1,EPP Banikoara Groupe B,11.29562,2.432351,314.0,2.0,Africa/Lagos
+TA00293,1,EPP Centre Karimama,12.074974,3.179812,174.0,2.0,Africa/Lagos
+TA00294,1,CEG 1 Ouesse,8.493819,2.417447,231.0,2.0,Africa/Lagos
+TA00300,1,CEG Izati,8.335861,1.360775,315.6,2.0,Africa/Abidjan
+TA00301,1,"St. Paul's SHS, Denu",6.124187,1.126036,21.0,2.0,Africa/Accra
+TA00302,1,"Ghana SHS, Koforidua",6.107885,-0.26421,198.0,2.0,Africa/Accra
+TA00303,1,"Asamankese SHS, Asamankese",5.873005,-0.675283,177.0,2.0,Africa/Accra
+TA00304,1,"St. Rose's SHS, Akwatia",6.038323,-0.815216,159.7,2.0,Africa/Accra
+TA00305,1,Melfa,13.65024683,39.12604397,2583.2,2.0,Africa/Nairobi
+TA00308,1,"Oda SHS, Akim Oda",5.968523,-0.994048,136.1,2.0,Africa/Accra
+TA00309,1,"Kwanyako SHS, Agona Kwanyako",5.603772,-0.635371,58.7,2.0,Africa/Accra
+TA00310,1,University of Cape Coast,5.116553,-1.289021,15.0,2.0,Africa/Accra
+TA00312,1,"Abono JHS, Lake Bosomtwi",6.536621,-1.432402,121.9,2.0,Africa/Accra
+TA00313,1,Safisana,5.6836,-0.049468,12.0,2.0,Africa/Accra
+TA00314,1,"Premium Vegetables, Konkonuru-Ketase",5.815483,-0.194442,314.0,2.0,Africa/Accra
+TA00315,1,Ecole Nationale Supérieure d'Agriculture (ENSA),14.764167,-16.890556,64.7,2.0,Africa/Abidjan
+TA00316,1,Konya secondary school,0.289862,34.371222,1263.8,2.0,Africa/Nairobi
+TA00317,1,Ng'iya primary school,0.04044,34.371716,1432.0,2.0,Africa/Nairobi
+TA00319,1,"Perseverance Int. School, Nsawam",5.797283,-0.346325,62.0,2.0,Africa/Accra
+TA00321,1,MUST (Malawi University of Science & Technology),-15.90342949,35.21617081,827.9,2.0,Africa/Maputo
+TA00322,1,Lisungwi EPA,-15.447727,34.85131,422.0,2.0,Africa/Maputo
+TA00323,1,Kunthembwe EPA,-15.670962,34.870056,713.0,2.0,Africa/Maputo
+TA00325,1,Namikasi sec school,-15.488575,34.970907,542.0,2.0,Africa/Maputo
+TA00326,1,Gitega,-1.9562,30.05773,1522.47,1.5,Africa/Maputo
+TA00327,1,Bangula,-16.5839486,35.1032945,63.0,2.0,Africa/Maputo
+TA00328,1,Madina Diassa,10.822359,-7.7394,367.0,2.0,Africa/Abidjan
+TA00329,1,Thuchila Agriculture,-15.916054,35.356093,695.0,2.0,Africa/Maputo
+TA00331,1,Ndirande Secondary School,-15.7639177,35.0438039,1139.632,2.0,Africa/Maputo
+TA00332,1,Milepa Agriculture,-15.689893,35.320676,790.3,2.0,Africa/Maputo
+TA00333,1,Dogo,11.891441,-7.337038,381.0,2.0,Africa/Abidjan
+TA00334,1,Institut de Formation Professionnelle Malick Sidibe LTAK,12.415836,-5.441847,367.0,2.0,Africa/Abidjan
+TA00335,1,Kignan,11.85276,-6.018243,353.0,2.0,Africa/Abidjan
+TA00336,1,Lycée Dedier De Montclos Sikasso,11.324207,-5.676385,396.0,2.0,Africa/Abidjan
+TA00337,1,Manankoro,10.461182,-7.449116,368.0,2.0,Africa/Abidjan
+TA00338,1,Kalana,10.78883,-8.195493,391.0,2.0,Africa/Abidjan
+TA00339,1,CEG Koudjoaré,10.937993,0.638356,203.5,2.0,Africa/Abidjan
+TA00341,1,CEG Masédéna,9.948090398,1.283022018,343.4,2.0,Africa/Abidjan
+TA00342,1,CEG1 Bemberke,10.221683,2.669973,403.0,2.0,Africa/Lagos
+TA00343,1,Seguela,13.25463414,-6.994592348,296.9,2.0,Africa/Abidjan
+TA00344,1,Gouendo,12.79819407,-6.322762263,286.8,2.0,Africa/Abidjan
+TA00345,1,Koula,13.238495,-4.279211,375.3,2.0,Africa/Abidjan
+TA00346,1,Ecole Privee Agropastorale Fatoumata Tienta,13.696194,-6.058808,284.0,2.0,Africa/Abidjan
+TA00347,1,Segou,13.438085,-6.273857,288.0,2.0,Africa/Abidjan
+TA00348,1,Cinzana Gate,13.252222,-5.957291,281.0,2.0,Africa/Abidjan
+TA00349,1,Lycee De Mopti,14.49461,-4.188941,271.0,2.0,Africa/Abidjan
+TA00350,1,Sotuba-CRRA,12.657203,-7.921099,320.0,2.0,Africa/Abidjan
+TA00351,1,Chilipa Agriculture,-14.71191,34.9765,769.0,2.0,Africa/Maputo
+TA00353,1,Linthipe Agriculture,-14.166357,34.115317,1181.0,2.0,Africa/Maputo
+TA00354,1,Talent High School,3.192774,35.675449,498.0,2.0,Africa/Nairobi
+TA00355,1,Moi High School Kalokol,3.498068995,35.84389674,386.8,2.0,Africa/Nairobi
+TA00356,1,Loima Boys High School,2.856836,35.080275,721.1,2.0,Africa/Nairobi
+TA00358,1,Eldas Girls School,2.494205,39.582155,416.0,2.0,Africa/Nairobi
+TA00359,1,Habasweni DC Offices,1.015292,39.495223,214.1,2.0,Africa/Nairobi
+TA00360,1,KMD Kitui,-1.379502,38.003494,1126.1,2.0,Africa/Nairobi
+TA00361,1,Mwazisi,-10.948273,33.579343,1255.0,2.0,Africa/Maputo
+TA00362,1,Dwambazi Agriculture,-12.244702,33.996286,485.0,2.0,Africa/Maputo
+TA00363,1,Songwe Water Board,-9.5936263,33.773147,564.0,2.0,Africa/Maputo
+TA00364,1,Mali-Meteo,12.55422,-7.96813,378.0,2.0,Africa/Abidjan
+TA00365,1,Katibougou,12.920423,-7.5319189,308.0,2.0,Africa/Abidjan
+TA00366,1,Selingue-Meteo,11.645452,-8.208413,361.5,2.0,Africa/Abidjan
+TA00367,1,Mpherembe Agriculture,-11.286344,33.604265,1189.2,2.0,Africa/Maputo
+TA00368,1,Lunyangwa Research Station,-11.425561,34.0460809,1353.0,2.0,Africa/Maputo
+TA00369,1,Euthini Agriculture,-11.4542682,33.4266215,1173.0,2.0,Africa/Maputo
+TA00370,1,Bamako-Ville,12.635845,-8.0225964,332.0,2.0,Africa/Abidjan
+TA00372,1,Rietfontein,-26.336072,27.884944,1561.0,2.0,Africa/Johannesburg
+TA00374,1,Jooust,-0.09321,34.260355,1270.0,2.0,Africa/Nairobi
+TA00375,1,Kamuzu Academy,-13.032491,33.685373,1170.7,2.0,Africa/Maputo
+TA00377,1,Dol Dol Secondary School,0.40379498,37.16207014,1865.3,2.0,Africa/Nairobi
+TA00379,1,Lariak Secondary School,0.402296,36.37726,2031.0,2.0,Africa/Nairobi
+TA00380,1,Massigui,11.860938,-6.776466,343.0,2.0,Africa/Abidjan
+TA00382,1,Narena,12.226193,-8.633027,390.0,2.0,Africa/Abidjan
+TA00383,1,Lycée de Cinkassé,11.092596,0.039696,298.0,2.0,Africa/Abidjan
+TA00384,1,CEG Kpangalam,9.019067,1.140606,433.0,2.0,Africa/Abidjan
+TA00385,1,CEG Fazao,8.697217,0.782768,500.0,2.0,Africa/Abidjan
+TA00386,1,Merti muslim primary,1.0675364,38.6692209,297.1,2.0,Africa/Nairobi
+TA00387,1,Kanga High school,-0.810491,34.589472,1450.0,2.0,Africa/Nairobi
+TA00388,1,St.Clare Gekendo High School,-0.504844,34.973857,1680.0,2.0,Africa/Nairobi
+TA00389,1,Mwongori Nyamira Count,-0.6903275,35.036889,2044.0,2.0,Africa/Nairobi
+TA00390,1,Lifuwu Research,-13.673076,34.585986,480.0,2.0,Africa/Maputo
+TA00391,1,Agri Impact,5.760172,-0.231223,355.0,2.0,Africa/Accra
+TA00392,1,"Wenchi Methodist SHS, Wenchi",7.755588,-2.101559,322.0,2.0,Africa/Accra
+TA00393,1,"Kumasi SHS, Kumasi",6.660956,-1.581071,272.0,2.0,Africa/Accra
+TA00395,1,Nyundo IDP Model Village,-1.7063998,29.6348028,1434.568,2.0,Africa/Maputo
+TA00396,1,Bugulumiza,-2.324457,28.740818,2414.3,2.0,Africa/Maputo
+TA00397,1,Geo_Abu_Zaria,11.14010885,7.656400513,664.5,2.0,Africa/Lagos
+TA00398,1,IAR_Zaria,11.1824797,7.6161899,691.0,2.0,Africa/Lagos
+TA00399,1,Busogo/UR-CAVM,-1.554319,29.550685,2203.0,2.0,Africa/Maputo
+TA00404,1,Sirakoro,12.682719,-9.226649,367.2,2.0,Africa/Abidjan
+TA00405,1,Fari,12.163199,-10.6661021,449.108,2.0,Africa/Abidjan
+TA00406,1,Dialafara,13.46377179,-11.37987307,129.3,2.0,Africa/Abidjan
+TA00407,1,Lycee Dougoukol Konare,14.43941,-11.449241,48.0,2.0,Africa/Abidjan
+TA00408,1,Medine,14.37451,-11.364839,44.0,2.0,Africa/Abidjan
+TA00409,1,Oussoubidiagna,14.25097586,-10.46308356,262.5,2.0,Africa/Abidjan
+TA00410,1,yangambi,0.820137263,24.45626304,463.9,2.1,Africa/Maputo
+TA00413,1,Kibabii University,0.620245,34.520891,1509.0,2.0,Africa/Nairobi
+TA00414,1,Murungaru Secondary School,-0.586642,36.493098,2432.0,2.0,Africa/Nairobi
+TA00416,1,Magomano Secondary School,-0.606799,36.581097,2488.0,2.0,Africa/Nairobi
+TA00429,1,Apakope Kayove,-1.880791,29.349364,1987.0,2.0,Africa/Maputo
+TA00430,1,College de Rushaki,-1.45486,30.09317,1831.0,2.0,Africa/Maputo
+TA00431,1,Kitabi College,-2.527662,29.416647,2386.0,2.0,Africa/Maputo
+TA00432,1,College St Bernard Kansi,-2.702845,29.748325,1665.2,2.0,Africa/Maputo
+TA00433,1,IPRC Musanze,-1.562438943,29.63647548,1638.7,2.0,Africa/Maputo
+TA00435,1,Ecose Musambira,-2.0344625,29.8457139,1749.346,2.0,Africa/Maputo
+TA00436,1,ES Nyange,-2.062002368,29.59180525,1785.6,2.0,Africa/Maputo
+TA00437,1,ES Mibilizi A,-2.570952,28.954602,1838.0,2.0,Africa/Maputo
+TA00438,1,GS Marie Reine Rwanza,-1.54827,29.68943,1867.83,2.0,Africa/Maputo
+TA00439,1,GS St Pierre Nkombo,-2.405129,28.900336,1555.0,2.0,Africa/Maputo
+TA00440,1,St Charles Ichuni High School,-0.7895827,34.9454152,2144.7,2.0,Africa/Nairobi
+TA00441,1,Cardinal Otunga Musocho High School,-0.599323,34.744223,1537.5,2.0,Africa/Nairobi
+TA00442,1,St Johns Nyamagwa,-0.791772,34.804728,1811.5,2.0,Africa/Nairobi
+TA00444,1,"Ngao Girl""s",-2.4154294,40.2005256,20.5,2.0,Africa/Nairobi
+TA00445,1,Koome Island HQ,-0.080571,32.733322,1158.0,2.0,Africa/Nairobi
+TA00446,1,Bulindi Zardi,1.498891,31.497535,1148.0,2.0,Africa/Nairobi
+TA00447,1,DGMN-Lomé,6.174685,1.253262,36.0,2.0,Africa/Abidjan
+TA00448,1,Kaewa Secondary School,-0.932588,37.677271,1133.0,2.0,Africa/Nairobi
+TA00451,1,Petit Seminaire St Dominique Savio - Rwesero,-1.8023773,30.1791171,1452.0,2.0,Africa/Maputo
+TA00453,1,NDMA-Tana River Hola,-1.494702,40.029839,60.8,2.0,Africa/Nairobi
+TA00454,1,CEG Bassar-Ville,9.260763,0.771597,325.0,2.0,Africa/Abidjan
+TA00457,1,"Env. Sc - Dutse, Jigawa",11.708374,9.365427,441.0,2.0,Africa/Lagos
+TA00458,1,"Geog - Buk, Kano",11.975591,8.4274552,463.0,2.0,Africa/Lagos
+TA00459,1,"Geog - IBBU, Lapai, Niger",9.066148,6.56908,198.0,2.0,Africa/Lagos
+TA00460,1,"Geog - UDUS, Sokoto",13.127304,5.214523,274.0,2.0,Africa/Lagos
+TA00461,1,"Phy - FU, Lafia",8.474534,8.556301,175.0,2.0,Africa/Lagos
+TA00462,1,CEG Vohitsaoka,-22.03939,46.721629,824.0,2.5,Africa/Nairobi
+TA00464,1,Abrha we Atsbha,13.834444,39.514444,1957.0,2.0,Africa/Nairobi
+TA00466,1,Universite de Lome,6.173716,1.214987,25.6,2.0,Africa/Abidjan
+TA00467,1,Lycée de Mandouri,10.858742,0.793002,145.0,2.0,Africa/Abidjan
+TA00468,1,Dengolo,13.798653,39.589136,2002.0,2.0,Africa/Nairobi
+TA00470,1,Orange Farm,-26.483036,27.867692,1575.0,2.0,Africa/Johannesburg
+TA00471,1,Ikongo Lycee,-21.878167,47.432248,264.0,2.0,Africa/Nairobi
+TA00473,1,Taita Mauche Secondary school,-0.512371,35.956813,2580.0,2.0,Africa/Nairobi
+TA00480,1,Seku Main Campus,-1.376151882,37.79764575,1078.2,2.0,Africa/Nairobi
+TA00482,1,Masindi District HQ,1.68575,31.71826,1151.7,2.0,Africa/Nairobi
+TA00483,1,Lycee de Soudou,9.359284,1.34427,464.0,2.0,Africa/Abidjan
+TA00484,1,Lycee de Togoville,6.239538,1.476181,27.0,2.0,Africa/Abidjan
+TA00485,1,Lycee D'Agbelouve,6.686288,1.166405,127.0,2.0,Africa/Abidjan
+TA00486,1,"Cut Farm, Free State",-28.948622,26.036265,1293.0,2.3,Africa/Johannesburg
+TA00493,1,Kisarawe Boma,-6.910844767,39.07559729,269.5,2.0,Africa/Nairobi
+TA00494,1,Macedonia Nursery and Primary School,-6.83386,39.167475,113.0,2.0,Africa/Nairobi
+TA00495,1,Tazara,-6.846582,39.246106,31.0,2.0,Africa/Nairobi
+TA00508,1,Solar Works Headquarter,-25.933895,32.502935,26.0,7.36,Africa/Maputo
+TA00509,1,Solar Works Manhica,-25.405518,32.804618,38.0,5.91,Africa/Maputo
+TA00510,1,Kitgum Met,3.28747,32.88681,943.0,2.0,Africa/Nairobi
+TA00511,1,Gulu Core PTC,2.789625,32.346513,1114.3,2.0,Africa/Nairobi
+TA00512,1,Aii-vu,3.159782,31.010976,1092.0,2.0,Africa/Nairobi
+TA00514,1,Lusaka City Airport ,-15.416685,28.320692,1278.0,2.0,Africa/Maputo
+TA00518,1,Maroseranana,-18.540968,48.83878,292.0,2.2,Africa/Nairobi
+TA00519,1,Solar Works Maxixe,-23.866289,35.346881,4.2,9.5,Africa/Maputo
+TA00520,1,Solar Works Massinga,-23.328399,35.38092,109.0,10.25,Africa/Maputo
+TA00522,1,Senanga Met,-16.11124322,23.29772399,1011.8,2.0,Africa/Maputo
+TA00523,1,Mutomena VAG,-16.73352,23.10015,993.0,2.0,Africa/Maputo
+TA00524,1,"Agron UI, Ibadan",7.454569,3.892934,195.3,2.0,Africa/Lagos
+TA00525,1,"Geog Fubk, Kebbi",12.332172,4.156528,214.0,2.0,Africa/Lagos
+TA00526,1,"Geog-OAU, Ile-Ife",7.504441,4.528495,260.0,2.0,Africa/Lagos
+TA00527,1,"Geog-UNiJOS, Jos",9.967314,8.880703,1140.2,2.0,Africa/Lagos
+TA00528,1,"Wam-Funaab, Abeokuta",7.231715,3.434353,147.0,2.0,Africa/Lagos
+TA00530,1,Silolo,-17.38330405,24.16730558,961.4,2.0,Africa/Maputo
+TA00531,1,Mbala VAG,-17.57428447,23.39142899,968.0,2.0,Africa/Maputo
+TA00532,1,Kalobolelwa,-17.0239087,23.9863855,960.0,2.0,Africa/Maputo
+TA00533,1,Sesheke,-17.478749,24.301371,944.4,2.0,Africa/Maputo
+TA00534,1,Sioma,-16.60595932,23.50083447,1020.7,2.0,Africa/Maputo
+TA00535,1,Nangweshi,-16.3998338,23.323368,1023.3,2.0,Africa/Maputo
+TA00536,1,Mutemwa,-17.1514272,24.0565553,998.0,2.0,Africa/Maputo
+TA00537,1,Silumbu,-16.9222237,23.8728117,971.5,2.0,Africa/Maputo
+TA00538,1,"Geog-UNILAG, Lagos",6.518634,3.393759,11.0,2.0,Africa/Lagos
+TA00539,1,"Geog-UNILORIN, Ilorin",8.487213,4.6751,378.0,2.0,Africa/Lagos
+TA00541,1,Chiware-Nyimba,-14.696342,30.766627,817.0,2.0,Africa/Maputo
+TA00542,1,Vizimumba-nyimba,-14.47362284,31.01542394,911.5,2.0,Africa/Maputo
+TA00543,1,Nyanje-Sinda,-14.382935,31.799792,1046.0,2.0,Africa/Maputo
+TA00546,1,Oriel Girls High School,-17.781042,31.12650814,1505.7,2.0,Africa/Maputo
+TA00547,1,Ecole Pratique d’Agriculture de Binguela (EPAB),3.700005,11.3791,728.0,2.0,Africa/Lagos
+TA00548,1,Lycée Classique de Mfou,3.72626,11.63978,708.0,2.0,Africa/Lagos
+TA00549,1,Lumezi,-12.525457,33.044037,1178.0,2.0,Africa/Maputo
+TA00550,1,Eastern girls,-13.4108611,32.4806156,844.1,2.0,Africa/Maputo
+TA00551,1,chikando,-13.8442873,32.4640377,1104.3,2.0,Africa/Maputo
+TA00559,1,Manyame,-17.94217056,31.09677172,1470.6,2.0,Africa/Maputo
+TA00561,1,Mikembo/Lubumbashi,-11.478551,27.660022,1173.0,2.0,Africa/Maputo
+TA00562,1,Malambwe/Lubumbashi,-11.273407,27.862193,1163.0,2.0,Africa/Maputo
+TA00565,1,Nyamphande-Petauke,-14.22069737,31.23391848,973.4,2.0,Africa/Maputo
+TA00567,1,Accra Girls SHS,5.597071,-0.194248,63.0,2.0,Africa/Accra
+TA00568,1,Mahali Mzuri,-1.273445,35.223451,1706.0,2.0,Africa/Nairobi
+TA00569,1,Mara Triangle Airstrip,-1.404244,35.008688,1608.0,2.0,Africa/Nairobi
+TA00570,1,Naboisho Camp,-1.401188,35.307488,1728.0,2.0,Africa/Nairobi
+TA00573,1,Maasai Mara University,-1.091263028,35.85449549,1930.3,2.0,Africa/Nairobi
+TA00577,1,"Env. Mgt- Tech, Bauchi",10.487147,9.788223,566.0,2.0,Africa/Lagos
+TA00579,1,"Geog, FU Kashere, Gombe",9.913203,11.008132,383.0,2.0,Africa/Lagos
+TA00580,1,"Geog, Mautech Wukari, Taraba",7.844126,9.777504,162.0,2.0,Africa/Lagos
+TA00581,1,"Geog, MAU Yola, Adamawa",9.34997,12.495768,220.0,2.0,Africa/Lagos
+TA00584,1,"Soil Sci, UniAgric, MKD",7.796068,8.61649,104.0,2.0,Africa/Lagos
+TA00586,1,Senchura Secondary School,-1.012913,35.899108,2131.0,2.0,Africa/Nairobi
+TA00588,1,"Geog-ACE, Ondo",7.070302,4.823638,263.0,2.0,Africa/Lagos
+TA00589,1,Juma Island,-2.438325363,32.74703783,1155.1,2.0,Africa/Nairobi
+TA00590,1,LVBWB,-2.537875,32.905523,1153.0,2.0,Africa/Nairobi
+TA00592,1,Langali Sec,-7.059282,37.57457,1099.0,2.0,Africa/Nairobi
+TA00593,1,Murad Saddiq,-6.153719,37.590806,389.5,2.0,Africa/Nairobi
+TA00594,1,Ngerengere Utali,-6.991815,38.291055,114.9,2.0,Africa/Nairobi
+TA00595,1,WAMI Prison,-6.39639,37.463018,386.0,2.0,Africa/Nairobi
+TA00601,1,Nathenje,-14.080148,33.907593,1075.0,2.0,Africa/Maputo
+TA00602,1,Kandeu,-14.594091,34.614791,963.0,2.0,Africa/Maputo
+TA00603,1,Chitengo,-18.982926,34.351752,30.0,2.0,Africa/Maputo
+TA00607,1,Nhamantanda,-19.2658,34.1961291,78.0,5.0,Africa/Maputo
+TA00608,1,Catandica,-18.068756,33.173665,610.9,8.0,Africa/Maputo
+TA00611,1,Debra Yakob,11.277724,37.225183,2184.0,2.0,Africa/Nairobi
+TA00612,1,Aba Gerima Upper,11.654106,37.503189,2010.0,2.0,Africa/Nairobi
+TA00614,1,Parakou Aerodrome,9.357594,2.612586,398.0,2.0,Africa/Lagos
+TA00615,1,Mabvazuva,-17.88720967,31.16544489,1514.4,2.0,Africa/Maputo
+TA00616,1,"CSIR-SARI, Nyankpala - Tamale",9.400825,-1.001911,191.0,2.5,Africa/Accra
+TA00618,1,Lupembashi,-11.20889,27.23759,1295.5,2.0,Africa/Maputo
+TA00619,1,CRIG (Soil Moisture Station 1),6.23025,-0.346547,228.0,0.0,Africa/Accra
+TA00620,1,CRIG (Soil Moisture Station 2),6.229843,-0.346975,222.0,0.0,Africa/Accra
+TA00621,1,ILRI - Kapiti Research-Farmhouse,-1.6330202,37.1461852,1768.3,2.0,Africa/Nairobi
+TA00623,1,Butere Girl's High school,0.21092,34.49384,1394.0,2.0,Africa/Nairobi
+TA00624,1,Nzoia Sugar company,0.57762,34.65503,1460.0,2.0,Africa/Nairobi
+TA00625,1,Malava DC's Office,0.57762,34.85433,1621.0,2.0,Africa/Nairobi
+TA00626,1,Turbo National Youth Service,0.64208,35.04869,1857.0,2.0,Africa/Nairobi
+TA00627,1,Ndalu Chief's Camp,0.84276,35.99336,1807.0,2.0,Africa/Nairobi
+TA00628,1,Ndalat Chief's camp,0.50226,35.15726,1906.0,2.0,Africa/Nairobi
+TA00629,1,Kapcherop Chief's office,1.04117,35.32535,2265.0,2.0,Africa/Nairobi
+TA00630,1,Chebororwa Agricultural Training college,0.92923,35.3875,2066.0,2.0,Africa/Nairobi
+TA00631,1,Uhuru chief's camp,0.48659,35.42018,2277.0,2.0,Africa/Nairobi
+TA00632,1,Mount Elgon Flowers,1.20949,34.79568,1958.0,2.0,Africa/Nairobi
+TA00633,1,EPP Piami,10.9566302,3.6362912,251.0,2.0,Africa/Lagos
+TA00634,1,EPP Guéne Laga,11.23936,3.449561,274.0,2.0,Africa/Lagos
+TA00636,1,Mchinji EPA,-13.799338,32.8832592,1191.6,2.0,Africa/Maputo
+TA00637,1,Katete Forest (Dzalanyama),-14.206029,33.591361,1128.0,2.0,Africa/Maputo
+TA00638,1,Lisasadzi RTC,-13.170715,33.509056,1113.0,2.0,Africa/Maputo
+TA00639,1,Chipoka Sec.School,-13.98426896,34.49223831,515.0,2.0,Africa/Maputo
+TA00640,1,Ngapani,-14.035407,35.353814,1188.0,2.0,Africa/Maputo
+TA00641,1,Chileka EPA,-14.021556,33.388663,1152.0,2.0,Africa/Maputo
+TA00642,1,Phalula,-15.215661,34.8868079,588.3,2.0,Africa/Maputo
+TA00643,1,Jam-Life,-21.989968,35.163974,23.0,2.0,Africa/Maputo
+TA00644,1,Tchaouyé,12.624301,3.276067,217.0,2.0,Africa/Lagos
+TA00647,1,"UG Greenhouse, Legon",5.659788,-0.190434,82.0,2.0,Africa/Accra
+TA00648,1,Kisasi Primary School - KCCA,0.376389,32.597852,1218.0,2.0,Africa/Nairobi
+TA00649,1,Nakivubo Blue Primary School,0.308052,32.575361,1163.0,2.0,Africa/Nairobi
+TA00650,1,Mengo Senior School,0.3196912,32.5616755,1247.2,2.0,Africa/Nairobi
+TA00651,1,"Hatab Islamic Basic Sch, Madina Zongo",5.675314,-0.179166,60.4,2.0,Africa/Accra
+TA00652,1,Gbegbeyise Palace,5.525557,-0.263749,15.0,2.0,Africa/Accra
+TA00653,1,Ggaba Demonstration Primary School - KCCA,0.265062,32.627203,1179.7,2.0,Africa/Nairobi
+TA00654,1,Kyambogo Primary School - KCCA,0.355103,32.629172,1241.0,2.0,Africa/Nairobi
+TA00655,1,Tambarara,-18.5120513,34.0805564,825.0,2.0,Africa/Maputo
+TA00656,1,Esuder-Campus,-21.990805,35.272128,37.0,2.0,Africa/Maputo
+TA00657,1,IITA Ibadan,7.5016337,3.9110648,245.9,2.0,Africa/Lagos
+TA00658,1,IITA-Ubiaja,6.6729738,6.3445719,340.0,2.85,Africa/Lagos
+TA00659,1,IITA Ikenne,6.8497507,3.6990915,68.5,2.85,Africa/Lagos
+TA00660,1,IITA Onne,4.7176665,7.1796017,13.0,2.85,Africa/Lagos
+TA00663,1,Mofu Secondary,-8.2739562,36.3568759,253.9,2.0,Africa/Nairobi
+TA00664,1,Msolaw Mission,-7.2929597,36.7541964,811.7,2.0,Africa/Nairobi
+TA00665,1,IITA Mokwa,9.3524274,5.0171848,191.6,2.0,Africa/Lagos
+TA00666,1,IITA Abuja,9.163178,7.3430155,438.0,2.0,Africa/Lagos
+TA00667,1,"Washington Elementary, Boise",43.6006332,-116.1971923,843.4,2.0,America/New_York
+TA00669,1,Santa Rosa PN,10.83662,-85.61799,299.0,2.0,America/Costa_Rica
+TA00670,1,Mwanihana Sec. school,-7.805082,36.905317,299.0,2.0,Africa/Nairobi
+TA00671,1,Mlimba,-8.786221,35.813489,303.5,2.0,Africa/Nairobi
+TA00672,1,Berega,-6.1803018,37.1468324,834.3,2.0,Africa/Nairobi
+TA00673,1,Mbandaka,0.0654859,18.3128578,311.0,2.0,Africa/Maputo
+TA00674,1,"Talek Gate, Maasai Mara Park",-1.4431354,35.2063103,1557.1,2.0,Africa/Nairobi
+TA00676,1,Kibaha,-6.780374,38.9735116,159.8,2.0,Africa/Nairobi
+TA00678,1,ILRI - Kapiti Research-Boma Site 2,-1.606871,37.151745,1664.0,2.0,Africa/Nairobi
+TA00679,1,ILRI - Mazingira Main,-1.270835,36.723916,1864.0,2.0,Africa/Nairobi
+TA00680,1,Oloisukut,-1.1812361,35.0443884,1849.5,2.0,Africa/Nairobi
+TA00681,1,DWD ZAMF Braunschweig,52.291468,10.446635,79.0,2.0,Europe/Zurich
+TA00682,1,INERA Saria,12.278628,-2.1570462,306.1,2.0,Africa/Abidjan
+TA00683,1,INERA Creaf,12.456142,-1.547981,299.0,2.0,Africa/Abidjan
+TA00684,1,Balgo-Yargho,12.044388,-0.256202,310.0,2.0,Africa/Abidjan
+TA00685,1,Fedpoly Ado-Ekiti,7.590057,5.295678,370.0,2.0,Africa/Lagos
+TA00686,1,Pogbi Dapelgo,12.6738298,-1.5459935,295.0,2.0,Africa/Abidjan
+TA00687,1,Yatinoma,12.197303,-1.396142,276.0,2.0,Africa/Abidjan
+TA00688,1,IITA Fashola,7.898688,3.7785884,246.2,2.0,Africa/Lagos
+TA00689,1,Walembelle Poly Clinic,10.50105629,-1.968561035,292.2,2.0,Africa/Accra
+TA00690,1,"Bui Power Authority, Bui",8.24704,-2.252721,165.9,2.0,Africa/Accra
+TA00691,1,"Urban Jungle, Mpakadan - Aburi",5.8150081,-0.2162459,123.0,2.0,Africa/Accra
+TA00692,1,GeogRP_UniBen_Benin,6.4041137,5.6263074,99.7,2.0,Africa/Lagos
+TA00693,1,Geog_UNN_Nsukka,6.8637818,7.4189555,440.1,2.0,Africa/Lagos
+TA00694,1,"CSIR-SARI, Tanina",9.885745,-2.462108,348.0,2.0,Africa/Accra
+TA00695,1,Perfect Injustice Property,0.7351736,31.250669,1219.3,2.0,Africa/Nairobi
+TA00696,1,MCS-FUTA-Akure,7.307635,5.130365,385.0,2.0,Africa/Lagos
+TA00697,1,Kibanda Hydromet,-0.8596701,31.3660654,1195.0,2.0,Africa/Nairobi
+TA00699,1,Rakai District HQ,-0.7075705,31.4021381,1266.8,2.0,Africa/Nairobi
+TA00700,1,Katete,-14.042383,32.070486,1110.0,2.0,Africa/Maputo
+TA00701,1,Mpunde Girls Secondary School,-14.208567,28.214911,1149.0,2.0,Africa/Maputo
+TA00702,1,Guihoyo ecole fondamentale,13.5049428,-8.244192403,341.8,2.0,Africa/Abidjan
+TA00703,1,Mateete Subcounty Sembabule - CHAI,-0.243396,31.481191,1254.0,2.0,Africa/Nairobi
+TA00704,1,IES_FUT Owerri,5.378601755,6.99829247,68.8,2.0,Africa/Lagos
+TA00705,1,GES_Unical_Calabar,4.95225137,8.3416916,66.0,2.0,Africa/Lagos
+TA00706,1,SSM_MOUAU_Umudike,5.4813214,7.5410878,124.3,2.0,Africa/Lagos
+TA00707,1,Sembabule District HQ - CHAI,-0.08901,31.458015,1312.8,2.0,Africa/Nairobi
+TA00708,1,Lwebitakuli Subcounty - CHAI,-0.256219755,31.35250046,1320.3,2.0,Africa/Nairobi
+TA00709,1,Semuto - CHAI,0.6211995,32.3695631,1170.0,2.0,Africa/Nairobi
+TA00710,1,Phy&E_FU-Otuoke,4.794438,6.32184,7.0,2.0,Africa/Lagos
+TA00711,1,"Geog, UniPort-Porthacourt",4.90653006,6.917063752,24.7,2.0,Africa/Lagos
+TA00712,1,Uwata - Madale Pre & Primary School,-6.6763078,39.1315515,94.8,2.0,Africa/Nairobi
+TA00713,1,Mbigiri Estate,-6.4904264,37.4631995,366.5,2.0,Africa/Nairobi
+TA00714,1,IITA Cocoa Field,7.5080497,3.8903089,210.0,2.0,Africa/Lagos
+TA00715,1,Upande Labs,-1.2256175,36.8090646,1731.0,2.0,Africa/Nairobi
+TA00717,1,Awae,3.8983054,11.8864365,734.0,2.0,Africa/Lagos
+TA00718,1,Inhamitanga,-18.2405968,35.1871037,216.0,2.0,Africa/Maputo
+TA00719,1,Kibugu Primary School,-0.4505393,37.43283539,1640.0,2.0,Africa/Nairobi
+TA00720,1,Edea,3.8011784,10.1206417,35.9,2.0,Africa/Lagos
+TA00725,1,IITA Mabang,6.9980209,-2.2148333,236.5,2.0,Africa/Accra
+TA00726,1,IITA Owena,7.1938596,5.0224968,250.0,2.0,Africa/Lagos
+TA00727,1,Condue,-18.7146099,34.8371634,282.0,2.0,Africa/Maputo
+TA00728,1,IITA Nkoemvone,2.8181395,11.1328485,580.6,2.0,Africa/Lagos
+TA00729,1,Mapombwe,-18.655282,34.079264,385.6,2.0,Africa/Maputo
+TA00730,1,IITA Mbalmayo,3.4677115,11.4878046,664.7,2.0,Africa/Lagos
+TA00731,1,Nyankpala DTS Site (Soil Moisture only),9.4006686,-1.0021672,190.0,-0.1,Africa/Accra
+TA00732,1,IITA Hamdallaye,13.5597861,2.4030934,244.6,2.0,Africa/Lagos
+TA00733,1,IITA Karma,13.6743811,1.8083497,208.1,2.0,Africa/Lagos
+TA00734,1,IITA N'Dounga,13.4905183,2.0929917,172.0,2.0,Africa/Lagos
+TA00735,1,IITA Falwel,13.5264876,3.6024106,257.1,2.0,Africa/Lagos
+TA00736,1,IITA Bende,13.1818347,8.8871451,415.2,2.0,Africa/Lagos
+TA00737,1,IITA Ollelewa,14.50072,8.6373144,446.9,2.0,Africa/Lagos
+TA00738,1,IITA Bengou,11.9801805,3.559007,170.4,2.0,Africa/Lagos
+TA00739,1,IITA Tarna,13.4624528,7.1100172,353.2,2.0,Africa/Lagos
+TA00740,1,IITA Barto,13.2012787,8.3252391,443.5,2.0,Africa/Lagos
+TA00741,1,IITA Guidimouni,13.6909888,9.5077886,427.8,2.0,Africa/Lagos
+TA00742,1,Moatize 2,-16.1153648,33.7284375,175.9,2.0,Africa/Maputo
+TA00743,1,Muanza,-18.90522953,34.78794039,241.6,2.0,Africa/Maputo
+TA00744,1,CSAT-Katibougou,12.9204717,-7.53194969,308.5,2.0,Africa/Abidjan
+TA00745,1,CSAT-Baguineda,12.6257975,-7.80716239,316.7,2.0,Africa/Abidjan
+TA00746,1,CSAT-Cinzana,13.2784176,-5.9338156,281.8,2.0,Africa/Abidjan
+TA00747,1,CSAT-Farako,11.2136943,-5.4581061,408.4,2.0,Africa/Abidjan
+TA00748,1,CSAT-Bema,15.0308081,-9.3624873,282.3,2.0,Africa/Abidjan
+TA00749,1,Morila-Meteo,11.6814445,-6.8383994,353.7,2.0,Africa/Abidjan
+TA00750,1,Temboni sec. school,-6.805316,39.139843,131.0,2.0,Africa/Nairobi
+TA00751,1,Luguruni Sec.School,-6.848668,39.082174,177.0,2.0,Africa/Nairobi
+TA00753,1,Ebonite College,-6.779752,39.179078,127.0,2.0,Africa/Nairobi
+TA00754,1,Karatina University (Main Campus),-0.3884261,37.1426522,1998.0,2.0,Africa/Nairobi
+TA00756,1,Kwadaso Agric College,6.671519247,-1.670523365,270.4,2.0,Africa/Accra
+TA00757,1,Kumasi Institute of Tropical Agriculture,6.67611659,-1.5019208,256.0,2.0,Africa/Accra
+TA00758,1,Nhancuco,-18.5116907,34.0501852,674.6,2.0,Africa/Maputo
+TA00759,1,Derunde,-19.0930177,34.7721933,127.6,2.0,Africa/Maputo
+TA00760,1,Mawenzi secondary school,-3.3433751,37.324712,901.1,2.0,Africa/Nairobi
+TA00761,1,Agape Lutheran Junior seminary secondary school,-3.3130865,37.5529387,1217.1,2.0,Africa/Nairobi
+TA00762,1,Machame girls secondary school,-3.1986529,37.2343767,1530.4,2.0,Africa/Nairobi
+TA00763,1,Kazimzumbwi primary school,-6.965531,39.001739,250.0,2.0,Africa/Nairobi
+TA00764,1,Dian Fossey Gorilla Fund Campus,-1.4313572,29.5639117,2401.5,2.0,Africa/Maputo
+TA00765,1,ILRI - Olkiramatian,-1.7617069,36.077052,711.9,2.0,Africa/Nairobi
+TA00767,1,ILRI - Tsavo1,-2.6719895,38.3696649,543.6,2.0,Africa/Nairobi
+TA00770,1,ILRI - Mazingira Autocham,-1.2708635,36.7230765,1878.8,-0.1,Africa/Nairobi
+TA00776,1,ILRI - Ausquest farmhouse,-1.5665911,37.0974056,1636.6,2.0,Africa/Nairobi
+TA00777,1,Ulongoni primary school,-6.78427,39.147103,85.0,2.0,Africa/Nairobi
+TA00779,1,CEMASTEA,-1.3554754,36.711964,1865.6,2.0,Africa/Nairobi
+TA00780,1,Mkulazi Holding,-6.46554519,37.4726186,363.9,2.0,Africa/Nairobi
+TA00781,1,University of Education winneba,5.3715225,-0.6316275,30.6,2.0,Africa/Accra
+TA00782,1,Lycee Mermoz,14.71862509,-17.48550029,54.3,2.0,Africa/Abidjan
+TA00784,1,Nioro,13.7445951,-15.76629039,33.9,2.0,Africa/Abidjan
+TA00785,1,Mbakadou,15.291571,-15.9356535,49.2,2.0,Africa/Abidjan
+TA00786,1,Ourossogui Maison des Yvelines,15.5933552,-13.3118083,38.5,6.4,Africa/Abidjan
+TA00787,1,ILRI - EC Tower,-1.61420379,37.13310519,1674.9,2.0,Africa/Nairobi
+TA00788,1,Basile,-3.0181057,28.3386175,1238.7,2.0,Africa/Maputo
+TA00789,1,Burhinyi,-2.84329319,28.677182,1875.8,2.0,Africa/Maputo
+TA00790,1,Kitutu,-3.2837071,28.12026329,674.8,2.0,Africa/Maputo
+TA00791,1,Anka,12.10336519,5.93447009,335.2,2.0,Africa/Lagos
+TA00792,1,Matombo primary school,-7.0531123,37.7650133,275.2,2.0,Africa/Nairobi
+TA00793,1,Milengwelengwe secondary school,-7.4368488,37.6342119,161.6,2.0,Africa/Nairobi
+TA00794,1,BIT Koudougou,12.217818,-2.377763,294.1,2.0,Africa/Abidjan
+TA00795,1,Federal University of Technology Akure MCS GEO LAB,7.2902367,5.3123127,354.9,2.0,Africa/Lagos
+TA00796,1,Wenberiya Bersenta,11.8296674,36.9891524,1861.6,2.0,Africa/Nairobi
+TA00797,1,Esetumite,11.8247443,37.0472808,1805.2,2.0,Africa/Nairobi
+TA00798,1,Kunzila Zuriya,11.8742853,37.0031968,1809.6,2.0,Africa/Nairobi
+TA00799,1,Asinwara,11.8139293,36.9960164,1861.3,2.0,Africa/Nairobi
+TA00800,1,Kunzila Wemberya,11.8661687,36.9879852,1860.9,2.0,Africa/Nairobi
+TA00801,1,IITA LAUTECH Ogbomosho,8.1719838,4.2704361,366.0,2.0,Africa/Lagos
+TA00802,1,Kalzi-Irrinn,12.0956467,-1.6519981,317.9,2.0,Africa/Abidjan
+TA00803,1,INNOVACC Pintchoumba,8.4886712,13.4536173,363.5,2.0,Africa/Lagos
+TA00804,1,INNOVACC Bamé,9.0862538,13.5786013,219.8,2.0,Africa/Lagos
+TA00805,1,INNOVACC Djiddé,9.3578725,13.6525764,354.9,2.0,Africa/Lagos
+TA00806,1,Mbuji-Mayi,-6.1284438,23.5933787,625.5,2.0,Africa/Maputo
+TA00807,1,Eldoret Station 3,0.5721182,35.3098718,2167.0,2.0,Africa/Nairobi
+TA00808,1,Eldoret Station 2,0.5721407,35.309824,2146.0,2.0,Africa/Nairobi
+TA00809,1,Eldoret Station 4,0.5720775,35.3098178,2166.0,2.0,Africa/Nairobi
+TA00810,1,Ankoatsifaka Station,-20.7947883,44.1647055,78.0,2.0,Africa/Nairobi
+TA00811,1,Eldoret Station 1,0.5720918,35.3097759,2143.2,2.0,Africa/Nairobi
+TA00813,1,VCDP Office ADP Awka,6.218947,7.060674,159.0,19.0,Africa/Lagos
+TA00814,1,ILRI-Kapiti Supply,-1.6858243,37.1464901,1685.0,1.5,Africa/Nairobi
+TA00815,1,ILRI - GAW Station ,-0.0621227,37.2973827,0.0,2.0,Africa/Nairobi
+TA00816,1,"   Adezer kebele, Bu’I",8.300766,38.573907,2047.0,2.0,Africa/Nairobi
+TA00817,1,INNOVACC Douroum,10.6856756,14.121014,535.0,2.0,Africa/Lagos
+TA00818,1,INNOVACC Bang,9.8724541,13.9838181,331.0,2.0,Africa/Lagos
+TA00819,1,INNOVACC Gambour,10.2121005,14.5260653,403.0,2.0,Africa/Lagos
+TA00820,1,INNOVACC Tolloré,8.448789,14.2038692,348.0,2.0,Africa/Lagos
+TA00821,1,Wondo Genet College,7.102169,38.626325,1790.0,2.0,Africa/Nairobi
+TA00822,1,Enarau Conservancy ,-1.0078587,35.334261,1789.0,2.0,Africa/Nairobi
+TA00823,1,Enonkishu Conservancy,-1.0761066,35.2853231,1774.0,2.0,Africa/Nairobi
+TA00824,1,Lemek Conservancy,-1.1345097,35.2035116,1710.0,2.0,Africa/Nairobi
+TA00825,1,Mara North Conservancy (Naishi),-1.1642365,35.2990749,1852.0,2.0,Africa/Nairobi
+TA00826,1,Mara North Conservancy (Nkorobob),-1.3058739,35.1186209,1569.0,2.0,Africa/Nairobi
+TA00827,1,Olderkesi Conservancy,-1.6829133,35.347052,1775.0,2.0,Africa/Nairobi
+TA00828,1,PCA Pardamat Conservancy,-1.238264,35.3380451,1824.0,2.0,Africa/Nairobi
+TA00829,1,Olkinyei Conservancy,-1.353287,35.4366547,1816.0,2.0,Africa/Nairobi
+TA00830,1,Mara Siana Conservancy,-1.5239872,35.3471716,1762.0,2.0,Africa/Nairobi
+TA00831,1,Mara Repoi,-1.5410115,35.4974933,1919.0,2.0,Africa/Nairobi
+TA00832,1,Santa Cecilia,11.0622086,-85.4151637,346.0,2.0,America/Costa_Rica
+TA00833,1,Kimentet Hq,-1.2133147,34.9995108,1841.0,2.0,Africa/Nairobi
+TA00834,1,Olchorro Rhino,-1.1107933,35.2536368,1860.0,2.0,Africa/Nairobi
+TA00835,1,Olare Orok HQ,-1.3638487,35.2335349,1686.0,2.0,Africa/Nairobi
+TA00836,1,Naboisho Olesere Post,-1.3489054,35.3613555,1776.0,2.0,Africa/Nairobi
+TA00837,1,Isaaten Control,-1.504754,35.3768196,1791.0,2.0,Africa/Nairobi
+TA00838,1,Loita Hills Alpha Post,-1.3633596,35.6891005,2040.0,2.0,Africa/Nairobi
+TA00839,1,MMWCA Headquarters ,-1.1822437,35.2532125,1818.0,2.0,Africa/Nairobi
+TA00840,1,Bè-lagune,6.1482693,1.243491,8.0,2.0,Africa/Abidjan
+TA00841,1,Bè-Apédomé,6.1866996,1.2708354,38.0,2.0,Africa/Abidjan
+TA00842,1,Prempeh Assembly Hall ,6.6937849,-1.6147538,304.0,2.0,Africa/Accra
+TA00843,1,"Kumasi Academy, Kumasi ",6.7087633,-1.5706436,309.0,2.0,Africa/Accra
+TA00844,1,Garden City University College,6.7398807,-1.5662673,301.0,2.0,Africa/Accra
+TA00845,1,Duase M/A Basic School,6.7321649,-1.5731128,298.0,2.0,Africa/Accra
+TA00846,1,Masinde Muliro University Of Science and Technology (MMUST) ,0.2879399,34.7646721,1545.0,2.0,Africa/Nairobi
+TA00847,1,WESCO,6.7146555,-1.6234918,300.0,2.0,Africa/Accra
+TA00848,1,Segbe-Zanvi,6.1950366,1.1179043,37.0,2.1,Africa/Abidjan
+TA00849,1, Agotimé,6.1873414,1.137358,36.0,2.1,Africa/Abidjan
+TA00850,1, Lankouvi,6.1771384,1.1303821,33.0,2.1,Africa/Abidjan
+TA00851,1,CRETFP Kpalimé,6.9221973,0.6276862,259.0,2.0,Africa/Abidjan
+TA00852,1,CHP Kpalimé,6.9119538,0.6261564,245.0,2.0,Africa/Abidjan
+TA00853,1,CMS Kpalimé,6.9290544,0.6590141,247.0,2.0,Africa/Abidjan
+TA00854,1,GARE Kpalimé,6.9056323,0.6349752,237.0,2.0,Africa/Abidjan
+TA00855,1,CMS Klobatémé,6.2456451,1.262588,27.0,2.0,Africa/Abidjan
+TA00856,1,Techiman SHS,7.570005,-1.9372141,2.0,2.0,Africa/Accra
+TA00857,1, IITA Weather Station Minijbri,12.1442349,8.6662681,446.0,2.0,Africa/Lagos
+TA00858,1,  IITA MALAM MADORI,12.5833191,9.8608823,364.0,2.0,Africa/Lagos
+TA00859,1,IITA Weather Station Bauchi,10.4695584,9.8302616,595.0,2.0,Africa/Lagos
+TA00860,1,   Ajinya Farm Kulukwach,2.7422243,31.458021,634.0,2.0,Africa/Nairobi
+TA00861,1,Kongo SHS,10.8116985,-0.6912694,2.0,2.0,Africa/Accra
+TA00862,1,Saboba SHS,9.7230007,0.3080331,133.0,2.0,Africa/Accra
+TA00863,1,"11B, Waziri Ibrahim Street Ikoyi Lagos State",6.4335738,3.414126,22.0,2.0,Africa/Lagos
+TA00864,1,Chileleko school livingstone,-17.8463262,25.9106074,906.0,2.0,Africa/Maputo
+TA00865,1, Zambia college of agriculture monze,-16.2854673,27.517921,1143.0,2.0,Africa/Maputo
+TA00866,1,Mpika college of Agriculture,-11.7064936,31.4572467,1404.0,2.0,Africa/Maputo
+TA00867,1,Mpongwe farmer training centre,-13.5178495,28.1591332,1181.0,2.0,Africa/Maputo
+TA00868,1,University of Zambia,-15.3911519,28.3320885,1271.0,2.0,Africa/Maputo
+TA00869,1, Horohoro Met,-4.6126536,39.0945338,97.0,2.0,Africa/Nairobi
+TA00870,1,"IHS-Oba -Obafemi Owode LGA, Along Kobape Housing",7.024824,3.3889879,88.0,2.0,Africa/Lagos
+TA00871,1,Ogun State Water Cooperation board Mainstream Akomoje,7.1918649,3.3383511,54.0,2.0,Africa/Lagos
+TA00872,1,  Agbawin-Obi off Sowunmi/Ajana Mokoloki road,6.9133132,3.3800365,63.0,2.0,Africa/Lagos
+TA00873,1,Awowo -Ewekoro LGA-Abekuta,7.0137264,3.2894599,67.0,2.0,Africa/Lagos
+TA00874,1,Nø6 Femi-Sule Street Lekki Lagos,6.426755,3.4437259,27.0,2.0,Africa/Lagos
+TA00875,1,Ikate-Itedo Pices of land at Church-Str lekki,6.4450603,3.4832259,11.0,2.0,Africa/Lagos
+TA00876,1,Ulanda girls,-1.0091148,34.5878372,1516.0,2.0,Africa/Nairobi
+TA00877,1,Right of way beside Lekki Gardens Apartments Lekki,6.4263549,3.4821123,41.0,2.0,Africa/Lagos
+TA00878,1,Pong Tamale SHS,9.6854428,-0.8270072,141.0,2.0,Africa/Accra
+TA00879,1, Aggregated farms project site - Nyando,-0.2995551,35.0475667,1277.0,2.0,Africa/Nairobi
+TA00880,1,Kapsomboch Primary School,-0.3374127,35.0725656,1583.0,2.0,Africa/Nairobi
+TA00881,1,Ile -Oluji permanent school site,7.2408882,4.8661242,265.0,2.0,Africa/Lagos
+TA00882,1,Woliso- Bethel,8.5702687,37.9925477,2110.0,2.0,Africa/Nairobi
+TA00883,1,Meteo Benin -Head Office,6.3530136,2.3872983,19.0,2.0,Africa/Lagos
+TD00001,1,Maseno University,-0.00271,34.596908,1532.0,2.0,Africa/Nairobi
+TD00002,1,Moi University,0.289569,35.294804,2220.0,2.0,Africa/Nairobi
+TD00003,1,Kayonza OAF Tree Nursery,-1.8875,30.51611,1550.0,2.0,Africa/Maputo
+TD00004,1,Kwale KALRO,-4.165991,39.572865,130.0,2.0,Africa/Nairobi
+TD00005,1,Kenya Meteorological Department,-1.3018389,36.7602,1801.8,2.0,Africa/Nairobi
+TH00001,1,TOT Bridge on the Nelson Mandela Road,-6.821151,39.228417,25.0,0.0,Africa/Nairobi
+TH00002,1,Kigogo Sambusa Bridge,-6.8181703,39.2580288,12.0,0.0,Africa/Nairobi
+TH00003,1,Ubungo Bridge,-6.7904522,39.2087572,59.0,0.0,Africa/Nairobi
+TH00004,1,Froi Railway bridge,0.64254,34.81696,1489.0,8.7,Africa/Nairobi
+TH00005,1,Kuywa Bridge,0.620157,34.69988,1628.0,7.1,Africa/Nairobi
+TH00006,1,Kipkaren Bridge,0.606742,34.96525,1650.0,6.52,Africa/Nairobi
+TH00007,1,Sosian,0.6260897,35.05684,1788.0,7.07,Africa/Nairobi
+TH00008,1,Larger Nzoia Bridge,0.7607006,35.06241,1706.0,9.0,Africa/Nairobi
+TH00009,1,Koitobos Bridge,0.962477,35.08947,1782.0,8.22,Africa/Nairobi
+TH00010,1,Lusumu Bridge,0.306433,34.480556,1280.0,7.1,Africa/Nairobi
+TH00011,1,Tandale Uzuri Bridge,-6.789328,39.23085,250.0,300.0,Africa/Nairobi
+TH00012,1,Kimara Kilungule Bridge,-6.7945376,39.1783277,654.0,2.0,Africa/Nairobi
+TH00013,1,Shungashunga Bridge,-6.803409,39.213727,400.0,4.0,Africa/Nairobi
+TH00014,1,Kinyerezi Bridge,-6.859726,39.183669,300.0,3.0,Africa/Nairobi
+TH00015,1,Alimaua Bridge,-6.7900464,39.2428237,31.0,3.0,Africa/Nairobi
+TH00016,1,Msimbazi bridge,-6.829435,39.23649,80.0,0.0,Africa/Nairobi
+TH00017,1,Anloga Junction Dwellers Gold Church,6.688502,-1.597817,0.0,0.0,Africa/Accra
+TH00018,1,KNUST Botenical Garden,6.684969,-1.562032,0.0,0.0,Africa/Accra
+TH00019,1,Atonsu Allied Oil Fuel Station,6.658347,-1.595184,0.0,0.0,Africa/Accra
+TH00020,1,ICON Oil Fuel Station Duase,6.732016,-1.570953,0.0,3.9,Africa/Accra
+TH00021,1,Miracle Temple Church of Pentecost,6.67374,-1.592368,0.0,4.76,Africa/Accra
+TH00022,1,Fola Osibo Way Water Channel/Catholic Church of Divine Mercy Lekki 1,6.4464478,3.4673019,13.0,3.0,Africa/Lagos
+TH00023,1, Ikereku-Arakanga Ogun State Water Cooperation board Mainstream Akomoje,7.1918649,3.3383511,1.5,56.0,Africa/Lagos

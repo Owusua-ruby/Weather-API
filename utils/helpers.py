@@ -39,13 +39,26 @@ def get_measurements(code):
     }
     for value in values:
         if value[variable_index] in shortcodes.keys():
-            shortcodes[value[variable_index]].append(value[value_index])
-    precip = round(sum(shortcodes["pr"]), 2)
+            # Only append non-None values
+            if value[value_index] is not None:
+                shortcodes[value[variable_index]].append(value[value_index])
+    
+    # Handle precipitation sum
+    precip = round(sum(shortcodes["pr"]), 2) if shortcodes["pr"] else 0.0
     shortcodes["pr"] = precip
-    for key, value in shortcodes.items():
+    
+    # Handle other measurements, providing defaults for empty lists or None values
+    for key, value_list in shortcodes.items():
         if key == "pr":
             continue
-        shortcodes[key] = round(shortcodes[key].pop(), 2)
+        if value_list:  # If list is not empty
+            try:
+                last_value = value_list[-1]  # Get the last value instead of pop()
+                shortcodes[key] = round(last_value, 2) if last_value is not None else 0.0
+            except (TypeError, ValueError):
+                shortcodes[key] = 0.0
+        else:
+            shortcodes[key] = 0.0  # Default value for empty lists
     return {
         "values": shortcodes,
         "last_report": values[-1][time_index],
@@ -100,7 +113,7 @@ def get_forecast(code):
         "forecast",
     )
 
-    if "error" in response and response["error"] == True:
+    if "error" in response and response["error"]:
         return response
     data_day = response["data_day"]
     time = data_day["time"]
@@ -127,7 +140,10 @@ def make_request(endpoint, type="observation"):
 def prepare_data(code):
     station_data = get_station(code)
     measurements = get_measurements(code)
-    if station_data is None:
+    if station_data is None or measurements is None:
+        return None
+    # Check if measurements returned an error status
+    if isinstance(measurements, dict) and "status" in measurements and measurements["status"] == "error":
         return None
     observations = {**station_data, **measurements}
     last_report = parser.isoparse(observations["last_report"]).replace(tzinfo=None)
